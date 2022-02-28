@@ -1,5 +1,5 @@
 # London Sewer System
-For the background of this project is the following: "Someone dropped a famous, expensive ring into a sewer in London. It drifted off and has to be found. It’s
+The background of this project is the following: "Someone dropped a famous, expensive ring into a sewer in London. It drifted off and has to be found. It’s
 a special, magical ring and can always be seen wearing special glasses. A famous diver, McDiver, is going
 into the sewer system with the special glasses to find the ring. And find it McDiver does! McDiver takes off
 the special glasses and heads to the exit. But now, with the special glasses off, McDiver sees coins all over
